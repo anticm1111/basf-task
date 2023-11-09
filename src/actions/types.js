@@ -1,0 +1,7 @@
+// COMMENTS REDUCER
+
+export const GET_COMMENTS = "GET_COMMENTS";
+
+export const ADD_COMMENT = "ADD_COMMENT";
+export const DISPLAY_REPLYBOX = "DISPLAY_REPLYBOX";
+
