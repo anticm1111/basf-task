@@ -4,7 +4,9 @@ Done by Milica Antic :)
 
 ## Available Scripts
 
-### `npm install -> To install all required dependencies to run this project.`
+### `npm install ->
+
+To install all required dependencies to run this project.`
 
 In the project directory, you can run:
 
@@ -21,4 +23,4 @@ You may also see any lint errors in the console.
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-# Hope that you will like the code structure and organization, also how entire app is working.
+### Hope that you will like the code structure and organization, also how entire app is working.
