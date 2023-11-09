@@ -4,9 +4,9 @@ Done by Milica Antic :)
 
 ## Available Scripts
 
-### `npm install ->
+### `npm install`
 
-To install all required dependencies to run this project.`
+`-> To install all required dependencies to run this project.`
 
 In the project directory, you can run:
 
